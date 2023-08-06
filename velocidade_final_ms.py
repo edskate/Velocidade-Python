@@ -1,1 +1,0 @@
-velocidade_final_ms = 20    # velocidade final em m/s
